@@ -1,7 +1,4 @@
-# [TRP1] AI Content Generation Challenge - Submission Report
-**Candidate Name:** [Your Full Name]
-**Role:** Forward Deployed Engineer (FDE) Screening
-
+# [TRP1] AI Content Generation Challenge - Submission Reporta
 ## 1. Environment Setup & API Configuration
 *   **APIs Configured:** Google Gemini API (via Google AI Studio).
 *   **Provider Usage:** Primarily utilized the **Google** provider suite (`lyria` for music and `veo` for video).
